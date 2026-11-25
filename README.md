@@ -4,7 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-FF6F00?logo=tensorflow&logoColor=white)
 ![TF Hub](https://img.shields.io/badge/TensorFlow%20Hub-MobileNetV2-orange)
 ![Platform](https://img.shields.io/badge/Runs%20on-Google%20Colab%20(GPU)-F9AB00?logo=googlecolab&logoColor=white)
-![Status](https://img.shields.io/badge/status-prototype-orange)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
 [![License](https://img.shields.io/github/license/vjabarca/DL-Multi-Class-Dog-Breed-Classification)](LICENSE)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vjabarca/DL-Multi-Class-Dog-Breed-Classification/blob/main/dog-vision.ipynb)
